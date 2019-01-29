@@ -1,0 +1,22 @@
+Canidae
+Felidae
+Cat
+Cattle
+Dog
+Donkey
+Goat
+Guinea pig
+Horse
+Pig
+Rabbit
+Fancy rat varieties
+laboratory rat strains
+Sheep breeds
+Water buffalo breeds
+Chicken breeds
+Duck breeds
+Goose breeds
+Pigeon breeds
+Turkey breeds
+Aardvark
+Aardwolf
